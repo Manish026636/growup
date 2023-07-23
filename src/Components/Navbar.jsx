@@ -62,7 +62,7 @@ const Navbar = () => {
           <button
             href="http://munity.quantafile.com"
             title=""
-            className="items-center justify-center hidden px-4 py-2 ml-10 text-base font-semibold text-white transition-all duration-200 bg-[#db005b] border border-transparent rounded-md lg:inline-flex hover:bg-gray-800 focus:bg-blue-700"
+            className="items-center justify-center hidden px-4 py-2 ml-10 text-base font-semibold text-white transition-all duration-200 bg-gray-800 border border-transparent rounded-md lg:inline-flex hover:bg-gray-800 focus:bg-blue-700"
             role="button"
           >
             Join Our Community
